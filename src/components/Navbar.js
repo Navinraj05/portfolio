@@ -12,7 +12,7 @@ export default function Header() {
     <nav class="max-w-[85rem] w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between" aria-label="Global">
     
     <motion.div whileHover={{ scale: 1.1 }}   className="bg-violet-300 text-black p-2 rounded shadow-lg" >
-      <div className=" text-xl font-bold">My Portfolio</div>
+      <div className=" text-xl font-bold">Navin raj N</div>
     </motion.div>
 
     <div className="hidden md:block">
